@@ -19,7 +19,8 @@ class ProductsController extends Controller
             'book8'  => 'Ulysses',
             'book9'  => 'The Vanishing Half',
             'book10' => 'The Kite Runner',
-            'book11' => 'There There'];
+            'book11' => 'There There',
+            'book12' => 'Atomic Habits'];
 
         return view('books', ['data' => $data]);
     }

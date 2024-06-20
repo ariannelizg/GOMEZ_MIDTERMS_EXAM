@@ -19,5 +19,6 @@
         <p> {{$data['book9']}} </p>
         <p> {{$data['book10']}} </p>
         <p> {{$data['book11']}} </p>
+        <p> {{$data['book12']}} </p>
     </body>
 </html>
